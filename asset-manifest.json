@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/florekdeveloper/personal-homepage/static/css/main.073c9b0a.css",
+    "main.js": "/florekdeveloper/personal-homepage/static/js/main.a083458d.js",
+    "static/js/787.162bc9a0.chunk.js": "/florekdeveloper/personal-homepage/static/js/787.162bc9a0.chunk.js",
+    "static/media/logo.svg": "/florekdeveloper/personal-homepage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/florekdeveloper/personal-homepage/index.html",
+    "main.073c9b0a.css.map": "/florekdeveloper/personal-homepage/static/css/main.073c9b0a.css.map",
+    "main.a083458d.js.map": "/florekdeveloper/personal-homepage/static/js/main.a083458d.js.map",
+    "787.162bc9a0.chunk.js.map": "/florekdeveloper/personal-homepage/static/js/787.162bc9a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a083458d.js"
+  ]
+}
